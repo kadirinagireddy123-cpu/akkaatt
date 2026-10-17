@@ -1,0 +1,6 @@
+{
+  "name": "BITM MBA Attendance Management System",
+  "description": "Mobile-first PWA attendance management system for Ballari Institute of Technology & Management (BITM) MBA department with automated timetable engine, VTU compliance calculator, anti-proxy QR, and proctor workflows.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
